@@ -1,0 +1,3 @@
+Please note that the Quote "{!MnContract__c.Name}" you submitted for approval got rejected. Please follow the link below to re-visit the quote:
+
+ {!MnContract__c.Link}
